@@ -1,8 +1,8 @@
 {
   
-  "default_prefix": "q",
+  "default_prefix": "=",
      
- "YOUTUBE_API_KEY": "",
+ "YOUTUBE_API_KEY": "AIzaSyBf8y6N1866JNUvSDikaLpf2RjY5lgyw6M",
     "QUEUE_LIMIT": 0,
     "COLOR": "00FFFF"
 }
