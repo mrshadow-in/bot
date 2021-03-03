@@ -27,7 +27,7 @@ module.exports = {
       const commands = await client.commands;
 
       let emx = new MessageEmbed()
-        .setDescription("**[Join my support server](https://dsc.gg/kmdevs )**.  | **[WEBSITE ](https://automodbot.tk)** NOTE:- ALL COMMAND IN BETA SO PLEASE ANY COOMNDS NOT WORK JOIN SUPPORT SERVER")
+        .setDescription("**[Join my support server](https://discord.gg/Qt2BvH5qGq )**.  | **[WEBSITE ](https://automodbot.tk)** NOTE:- ALL COMMAND IN BETA SO PLEASE ANY COOMNDS NOT WORK JOIN SUPPORT SERVER")
         .setColor("GREEN")
         .setFooter(client.user.username, client.user.displayAvatarURL())
         .setThumbnail(client.user.displayAvatarURL());
