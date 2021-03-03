@@ -233,6 +233,6 @@ if(!message.guild) return;
 
 
 client.on("ready", () => {
-    client.user.setActivity(`qhelp |Servers Count - ${client.guilds.cache.size}`, { type: "WATCHING"})
+    client.user.setActivity(`=help |Servers Count - ${client.guilds.cache.size}`, { type: "WATCHING"})
 })
 client.login(process.env.TOKEN);
